@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Vocabulary</string>
+    <string-array name="voc_words">
+        <item> пассажир </item>
+        <item> тротуар </item>
+        <item> коллекция </item>
+        <item> берёза </item>
+        <item> Красная площадь </item>
+        <item> шоколад </item>
+        <item> жюри </item>
+        <item> маршрут </item>
+        <item> бинокль </item>
+        <item> велосипед </item>
+        <item> почерк </item>
+        <item> гардероб </item>
+        <item> брошюра </item>
+        <item> путешествие </item>
+        <item> экскурсия </item>
+    </string-array>
+</resources>
